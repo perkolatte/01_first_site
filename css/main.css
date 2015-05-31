@@ -1,0 +1,22 @@
+body{
+	margin:10;
+	padding-top:3px;
+}
+
+p {
+	color:purple;
+}
+img{
+	max-width:100%;
+}
+
+.firstdiv {
+	background-color:grey;
+	border:10px solid black;
+	padding:100px;
+	margin:10px;
+	border-radius:10px;
+}
+#onlyone{
+	color:black;
+}
